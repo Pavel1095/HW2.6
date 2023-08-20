@@ -37,4 +37,5 @@ public class Main {
         Set<String> uniqueWords = new HashSet<>(words);
         System.out.println(words.size() - uniqueWords.size());
     }
+    
 }
